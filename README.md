@@ -28,8 +28,8 @@ A culmination of my **MBA** and **MS in Leadership & Organizational Dynamics (Or
 
 ## 📖 About Me  
 
-- 🎓 Masters of Business Adminstration (MBA) + Master of Science (MS) in Leadership & Organizational Dynamics University of Michigan *Expected December 2025*
-- 🎓 Bachelor of Science (BS), Communications & Media New Jersey Institute of Technology  
+- 🎓 Masters of Business Adminstration (MBA) + Master of Science (MS) in Leadership & Organizational Dynamics, University of Michigan *December 2025*
+- 🎓 Bachelor of Science (BS), Communications & Media, New Jersey Institute of Technology  
 - 🔐 **Expertise**: Cybersecurity governance, risk management, compliance strategy  
 - 🤝 **Leadership Style**: Inclusive, collaborative, results-driven  
 - 🌎 **Passion**: Translating complex regulations into strategies that enable transformation and build trust  
