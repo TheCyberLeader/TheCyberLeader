@@ -1,16 +1,43 @@
-## Hi there 👋
+# <img width="1061" height="118" alt="Banner" src="https://github.com/user-attachments/assets/f342c31d-6c7d-4ae0-9e9c-7772f4cc237a" />
+👋 Welcome  
 
-<!--
-**TheCyberLeader/TheCyberLeader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Born to immigrant parents and raised in Detroit, I learned resilience early through financial hardship and community change. Today, I’m a **cybersecurity and governance executive** with 15+ years of experience building high-performing teams, embedding compliance-by-design, and translating regulations into strategies that enable business goals and reduce risk.  
 
-Here are some ideas to get you started:
+My leadership is **rooted in resilience, powered by people, and focused on creating lasting impact** across industries.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Work  
+
+### [Hands-on Cyber Leadership](https://github.com/TheCyberLeader/hands-on-cyber-leadership)  
+A hands-on showcase developed as part of the **WiCys / Google Cybersecurity Certificate Program**, presented through the lens of a governance- and risk-aware cybersecurity leader.  
+- Real-world governance and risk scenarios  
+- Compliance-by-design approaches  
+- Practical cybersecurity frameworks applied in context  
+
+---
+
+### [Leadership Playbook Toolkit](https://github.com/TheCyberLeader/Leadership-Playbook-Toolkit)  
+A culmination of my **MBA** and **MS in Leadership & Organizational Dynamics (Org Leadership concentration)** at the University of Michigan.  
+- Change management frameworks and readiness tools  
+- Negotiation & conflict resolution templates  
+- Organizational behavior diagnostics  
+- Narrative reflections on leadership frameworks (Kotter, ADKAR, Tuckman, etc.)  
+
+---
+
+## 📖 About Me  
+
+- 🎓 **Degrees**: MBA + MS in Leadership & Organizational Dynamics (University of Michigan) *Expected Decemember 2025* Bachelor of Science, Communications & Media
+New Jersey Institute of Technology  
+- 🔐 **Expertise**: Cybersecurity governance, risk management, compliance strategy  
+- 🤝 **Leadership Style**: Inclusive, collaborative, results-driven  
+- 🌎 **Passion**: Translating complex regulations into strategies that enable transformation and build trust  
+
+---
+
+## 🌐 Connect  
+
+- [LinkedIn](https://www.linkedin.com/in/mariezw/)  
+- [Email](m@riegrc.com)  
+
