@@ -39,7 +39,7 @@ A culmination of my **MBA** and **MS in Leadership & Organizational Dynamics (Or
 ## 📸 Resilience & Leadership in Action
 Leadership is shaped not only in boardrooms but through lived experiences. From childhood, I learned resilience and imagination. My executive vision board reflects the discipline of aligning strategy with purpose, while my advocacy for women in cybersecurity underscores my commitment to equity and representation. Standing at NJIT, preparing to lecture on Cyber and AI marks the transition from student to thought leader, reinforcing my belief that knowledge is meant to be shared. Together, these moments define a leadership style grounded in resilience, advocacy, and impact.  
 
-![724602179685844732_1295912432 copy](https://github.com/user-attachments/assets/936d22b5-9230-4a10-aaac-0ed4fc019bbe)![IMG_7648](https://github.com/user-attachments/assets/f82807c0-9515-4970-98f3-231ef227e211)![IMG_5982](https://github.com/user-attachments/assets/847ba663-a118-4116-8117-1e9b210d94e0)![IMG_5983](https://github.com/user-attachments/assets/06f48d09-ee4b-45a1-8896-29dce3e66ec1)
+![724602179685844732_1295912432 copy](https://github.com/user-attachments/assets/936d22b5-9230-4a10-aaac-0ed4fc019bbe)![IMG_7648](https://github.com/user-attachments/assets/f82807c0-9515-4970-98f3-231ef227e211)![IMG_5983](https://github.com/user-attachments/assets/06f48d09-ee4b-45a1-8896-29dce3e66ec1)
 
 
 
