@@ -1,5 +1,5 @@
 # <img width="1061" height="118" alt="Banner" src="https://github.com/user-attachments/assets/f342c31d-6c7d-4ae0-9e9c-7772f4cc237a" />
-👋 Welcome
+## 👋 Welcome
 
 Born to immigrant parents and raised in Detroit, Michigan, I learned resilience early through financial hardship and community change. Today, I’m a **cybersecurity and governance executive** with 15+ years of experience building high-performing teams, embedding compliance-by-design, and translating regulations into strategies that enable business goals and reduce risk.  
 
