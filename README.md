@@ -52,5 +52,5 @@ Leadership is shaped not only in boardrooms but through lived experiences. From 
 ## 🌐 Connect  
 
 - [LinkedIn](https://www.linkedin.com/in/mariezw/)  
-- [Email](m@riegrc.com)  
+- [Email Me](m@riegrc.com)  
 
