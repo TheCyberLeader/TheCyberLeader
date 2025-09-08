@@ -10,7 +10,7 @@ My leadership is rooted in resilience, powered by people, and focused on creatin
 ## 🚀 Featured Work  
 
 ### [Hands-on Cyber Leadership](https://github.com/TheCyberLeader/hands-on-cyber-leadership)  
-A hands-on showcase developed as part of the **WiCys / Google Cybersecurity Certificate Program**, presented through the lens of a governance- and risk-aware cybersecurity leader.  
+A hands-on showcase developed as part of the WiCys / Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.  
 - Real-world governance and risk scenarios  
 - Compliance-by-design approaches  
 - Practical cybersecurity frameworks applied in context  
@@ -18,7 +18,7 @@ A hands-on showcase developed as part of the **WiCys / Google Cybersecurity Cert
 ---
 
 ### [Leadership Playbook Toolkit](https://github.com/TheCyberLeader/Leadership-Playbook-Toolkit)  
-A culmination of my **MBA** and **MS in Leadership & Organizational Dynamics (Org Leadership concentration)** at the University of Michigan.  
+A culmination of my MBA and MS in Leadership & Organizational Dynamics (Org Leadership concentration) at the University of Michigan.  
 - Change management frameworks and readiness tools  
 - Negotiation & conflict resolution templates  
 - Organizational behavior diagnostics  
