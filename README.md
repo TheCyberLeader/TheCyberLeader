@@ -22,9 +22,6 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 * **Security Automation**: Python-based automation for security tasks including log parsing, pattern matching, and security algorithm development
 * **SOC Analyst Workflows**: Alert triage, log analysis, and threat intelligence integration using NIST IR Lifecycle
 
-**Frameworks Applied**: NIST CSF, NIST IR Lifecycle, NIST SP 800-30, PASTA, Risk Management Framework  
-**Technical Stack**: Python, SQL, Linux, Bash, Network Analysis Tools 
-
 ---
 ## 📊 Portfolio Analytics Dashboard
 
@@ -76,5 +73,3 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ---
 
 [![](https://visitcount.itsvg.in/api?id=TheCyberLeader&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
