@@ -26,6 +26,7 @@ A culmination of my **MBA and MS in Leadership & Organizational Dynamics** at th
 - Narrative reflections on leadership frameworks (Kotter, ADKAR, Tuckman, etc.)  
 
 ---
+## 📊 Portfolio Analytics Dashboard
 
 ## 💻 Tech Stack
 
