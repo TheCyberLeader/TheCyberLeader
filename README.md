@@ -68,14 +68,6 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=TheCyberLeader&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TheCyberLeader&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberLeader&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariezw) 
