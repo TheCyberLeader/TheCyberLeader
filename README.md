@@ -10,13 +10,20 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ---
 
-## 🚀 Featured Work  
+## 🚀 Featured Work
 
-### [Hands-on Cyber Leadership](https://github.com/TheCyberLeader/hands-on-cyber-leadership)  
-A hands-on showcase developed as part of the **WiCyS / Google Cybersecurity Certificate Program**, presented through the lens of a governance- and risk-aware cybersecurity leader.  
-- Real-world governance and risk scenarios  
-- Compliance-by-design approaches  
-- Practical cybersecurity frameworks applied in context  
+### Hands-on Cyber Leadership
+A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.
+
+* **Security Audits & Compliance**: NIST-based security audits, risk assessments, and compliance mapping
+* **Incident Response**: Multi-scenario threat analysis including DNS failures, DoS attacks, brute force attempts, ransomware, and phishing incidents
+* **Technical Security Operations**: Linux/SQL security operations, file permissions management, database query filtering, and security investigations
+* **Risk & Vulnerability Management**: Threat modeling using PASTA Framework, NIST SP 800-30 risk quantification, and access control design
+* **Security Automation**: Python-based automation for security tasks including log parsing, pattern matching, and security algorithm development
+* **SOC Analyst Workflows**: Alert triage, log analysis, and threat intelligence integration using NIST IR Lifecycle
+
+**Frameworks Applied**: NIST CSF, NIST IR Lifecycle, NIST SP 800-30, PASTA, Risk Management Framework  
+**Technical Stack**: Python, SQL, Linux, Bash, Network Analysis Tools 
 
 ### [Leadership Playbook Toolkit](https://github.com/TheCyberLeader/Leadership-Playbook-Toolkit)  
 A culmination of my **MBA and MS in Leadership & Organizational Dynamics** at the University of Michigan.  
