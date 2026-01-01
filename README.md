@@ -12,7 +12,7 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ## 🚀 Featured Work
 
-### Hands-on Cyber Leadership
+### [Hands-on Cyber Leadership](https://github.com/TheCyberLeader/hands-on-cyber-leadership)
 A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.
 
 * **Security Audits & Compliance**: NIST-based security audits, risk assessments, and compliance mapping
