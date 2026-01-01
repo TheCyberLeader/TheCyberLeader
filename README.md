@@ -25,13 +25,6 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 **Frameworks Applied**: NIST CSF, NIST IR Lifecycle, NIST SP 800-30, PASTA, Risk Management Framework  
 **Technical Stack**: Python, SQL, Linux, Bash, Network Analysis Tools 
 
-### [Leadership Playbook Toolkit](https://github.com/TheCyberLeader/Leadership-Playbook-Toolkit)  
-A culmination of my **MBA and MS in Leadership & Organizational Dynamics** at the University of Michigan.  
-- Change management frameworks and readiness tools  
-- Negotiation & conflict resolution templates  
-- Organizational behavior diagnostics  
-- Narrative reflections on leadership frameworks (Kotter, ADKAR, Tuckman, etc.)  
-
 ---
 ## 📊 Portfolio Analytics Dashboard
 
