@@ -28,6 +28,12 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ---
 ## 📊 Portfolio Analytics Dashboard
 
+### Project Metrics
+![Projects](https://img.shields.io/badge/Projects_Completed-6-success)
+![Scripts](https://img.shields.io/badge/Python_Scripts-15+-blue)
+![Frameworks](https://img.shields.io/badge/Frameworks_Applied-5-orange)
+![Documentation](https://img.shields.io/badge/Documentation_Pages-30+-informational)
+
 ## 💻 Tech Stack
 
 ### Security & Compliance Frameworks
