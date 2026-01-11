@@ -67,9 +67,6 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariezw) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m@riegrc.com)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=TheCyberLeader&icon=0&color=0)](https://visitcount.itsvg.in)
