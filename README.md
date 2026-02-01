@@ -66,12 +66,13 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ---
 # 🍳 Beyond Cybersecurity
 A personal collection of tried and true favorite recipes and culinary experiments, because leadership and security aren't the only things worth cultivating.
-Sahtain! (صحتين) - "Two healths" in Arabic. It's what we say when someone is eating or has just finished a meal, wishing them double the health and enjoyment.
 
 # Why This Repo Exists
 My love of cooking comes from my Teta (grandmother), who passed away a few months ago. She was an excellent cook and believed deeply that recipes are meant to be shared. Some of my earliest and most treasured memories are of us cooking together in her kitchen. 
 
 She taught me that cooking is more than following instructions; it's about the simple, beautiful rhythms of daily life, thinking of others, and creating something with love. This repo is my way of honoring her and continuing what she taught me: that food connects us, that cooking is an act of care, and that the best meals are the ones we share.
+
+Sahtain! (صحتين) - "Two healths" in Arabic. It's what we say when someone is eating or has just finished a meal, wishing them double the health and enjoyment.
 
 ### [My Recipe Collection](https://github.com/TheCyberLeader/recipes)
 
