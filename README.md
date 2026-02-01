@@ -64,7 +64,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
 
 ---
-### 🍳 Beyond Cybersecurity
+# 🍳 Beyond Cybersecurity
 A personal collection of tried and true favorite recipes and culinary experiments, because leadership and security aren't the only things worth cultivating.
 Sahtain! (صحتين) - "Two healths" in Arabic. It's what we say when someone is eating or has just finished a meal, wishing them double the health and enjoyment.
 Why This Repo Exists
