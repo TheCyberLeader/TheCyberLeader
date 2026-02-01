@@ -77,11 +77,6 @@ She taught me that cooking is more than following instructions; it's about the s
 
 <img width="3000" height="1127" alt="Chef Mer" src="https://github.com/user-attachments/assets/a1c3b225-acf5-4aa2-8eec-ba4870e0d295" />
 
-<a href="https://www.freepik.com/free-photo/grilled-vegetables-white-ceramic-pan-with-ingredients-rustic-surface_9810669.htm#fromView=search&page=1&position=0&uuid=e664d7a7-74bc-4c44-899f-ca07a2c8fb35&query=mediterannian+cooking">Image by user14908974 on Freepik</a>
-
-
-
-
 ---
 ## 🌐 Connect
 
