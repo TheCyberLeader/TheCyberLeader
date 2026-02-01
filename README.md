@@ -64,7 +64,13 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
 
 ---
+## 🍳 Beyond Cybersecurity
 
+### [My Recipe Collection](https://github.com/TheCyberLeader/recipes)
+A personal collection of tested recipes and culinary experiments—because leadership 
+and security aren't the only things worth cultivating.
+
+---
 ## 🌐 Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m@riegrc.com)
