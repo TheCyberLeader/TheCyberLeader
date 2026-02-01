@@ -75,9 +75,9 @@ She taught me that cooking is more than following instructions; it's about the s
 
 ### [My Recipe Collection](https://github.com/TheCyberLeader/recipes)
 
-![creative-arrangement-with-delicious-pizza](https://github.com/user-attachments/assets/24884e30-2f5d-4322-8504-59dc2759df53)
+<img width="3000" height="1127" alt="Chef Mer" src="https://github.com/user-attachments/assets/a1c3b225-acf5-4aa2-8eec-ba4870e0d295" />
 
-<a href="https://www.freepik.com/free-photo/creative-arrangement-with-delicious-pizza_13436699.htm#fromView=search&page=1&position=22&uuid=0f7b02c9-6106-47f6-b7d3-5b52a50e0b6c&query=Cooking">Image by freepik</a>
+<a href="https://www.freepik.com/free-photo/grilled-vegetables-white-ceramic-pan-with-ingredients-rustic-surface_9810669.htm#fromView=search&page=1&position=0&uuid=e664d7a7-74bc-4c44-899f-ca07a2c8fb35&query=mediterannian+cooking">Image by user14908974 on Freepik</a>
 
 
 
