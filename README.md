@@ -67,7 +67,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ## 🍳 Beyond Cybersecurity
 
 ### [My Recipe Collection](https://github.com/TheCyberLeader/recipes)
-A personal collection of tested recipes and culinary experiments—because leadership 
+A personal collection of tested recipes and culinary experiments, because leadership 
 and security aren't the only things worth cultivating.
 
 ---
