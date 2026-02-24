@@ -115,7 +115,7 @@ Every Monday on LinkedIn I share career insights, answer questions from students
 
 ## 🌍 Open Source & Community
 
-### OWASP Project Nest — GSoC Mentor
+### OWASP Project Nest GSoC Mentor
 
 [![OWASP](https://img.shields.io/badge/OWASP-Project_Nest-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://nest.owasp.org)
 [![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
@@ -126,7 +126,7 @@ Every Monday on LinkedIn I share career insights, answer questions from students
 
 ---
 
-### SOC 2 Quality Guild — Community Member
+### SOC 2 Quality Guild Community Member
 
 [s2guild.org](https://s2guild.org) is a practitioner-driven community building standardized evaluation criteria for SOC 2 report reliability, helping GRC and TPRM teams make more consistent, defensible vendor trust decisions. I contribute as a community member bringing a governance and compliance practitioner perspective.
 
