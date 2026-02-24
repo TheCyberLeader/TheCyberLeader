@@ -10,6 +10,42 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ---
 
+## 🌸 WiCyS — Women in Cybersecurity
+
+I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** — providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
+
+### 🎤 Speaking at WiCyS 2026 — Washington, DC
+
+My first WiCyS conference is going to be an unforgettable one. On March 12th, I'll be presenting alongside my amazing EAC colleagues on **breaking the invisible barriers that keep underrepresented professionals from reaching leadership in cybersecurity**. This topic is personal to me, and I can't wait to be in a room full of people who get it.
+
+Washington, DC, here we come! 🙌
+
+`Equity` `Inclusion` `Leadership` `Women in Cybersecurity` `Public Speaking`
+
+---
+
+## 💚 ISC2 New Jersey Chapter — Volunteer
+
+[![ISC2 NJ Chapter](assets/isc2-nj-chapter-dinner.jpg)](https://isc2chapter-newjersey.org/)
+
+I've been a volunteer with the **[ISC2 New Jersey Chapter](https://isc2chapter-newjersey.org/)** for nearly two years — and joining this community was one of the best professional decisions I've ever made. When I first joined, the chapter was ~400 members strong. Today we've more than doubled in size, and it's not hard to see why.
+
+Cybersecurity isn't just a job. It's a way of life. We think differently — through a lens of risk, resilience, and responsibility. What makes this chapter special is the authentic relationships built on trust and a shared commitment to the profession and to lifting each other up.
+
+### 🤖 Founder, AI Security Working Group
+
+[![AI Security Working Group](assets/isc2-nj-ai-sig.png)](https://isc2chapter-newjersey.org/)
+
+I founded the **AI Security Working Group** for the ISC2 NJ Chapter — focused on advancing AI security excellence through collaboration, education, and innovation across the cybersecurity community.
+
+I also participate in the **Mentoring Committee**, helping connect and support the next generation of cybersecurity professionals in New Jersey.
+
+> *"If you are free then you need to free somebody else. If you have some power, then your job is to empower somebody else."* — Toni Morrison
+
+`ISC2` `Community` `AI Security` `Mentorship` `Volunteering`
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🛡️ ISC2 NJ Cybersecurity Mentoring Toolkit
@@ -60,6 +96,11 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ## 🌍 Open Source & Community
 
 ### OWASP Project Nest — GSoC Mentor
+
+[![OWASP](https://owasp.org/assets/images/logo.png)](https://nest.owasp.org)
+
+[![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=plastic&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
+
 [OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community — a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
 
 `Open Source` `Security` `Mentorship` `OWASP` `GSoC`
@@ -67,6 +108,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ---
 
 ### SOC 2 Quality Guild — Community Member
+
 [s2guild.org](https://s2guild.org) is a practitioner-driven community building standardized evaluation criteria for SOC 2 report reliability — helping GRC and TPRM teams make more consistent, defensible vendor trust decisions. I contribute as a community member bringing a governance and compliance practitioner perspective.
 
 `GRC` `TPRM` `SOC2` `Compliance` `Open Source`
