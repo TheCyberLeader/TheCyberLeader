@@ -10,37 +10,35 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ---
 
-## 💜 WiCyS — Women in Cybersecurity
+## 💜 WiCyS Women in Cybersecurity
 
 I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** — providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
 
-### 🎤 Speaking at WiCyS 2026 — Washington, DC
+### 🎤 Speaking at WiCyS 2026 Washington, DC
 
-<img src="assets/wicys-2026-conference.jpg" alt="WiCyS 2026 Conference" width="600"/>
+<img src="assets/wicys-2026-conference.jpg" alt="WiCyS 2026 Conference" width="400"/>
 
 My first WiCyS conference is going to be an unforgettable one, and I'm still pinching myself. I was awarded a scholarship to attend WiCyS 2026, and on March 12th I'll be on stage presenting alongside my amazing EAC colleagues on breaking the invisible barriers that keep underrepresented professionals from reaching leadership in cybersecurity.
 This topic is personal to me. I can't wait to be in a room full of people who get it, learning from industry leaders, connecting with fellow professionals, and being part of a community that's actively doing the work.
 Thank you to WiCyS and the scholarship sponsors for investing in women in cybersecurity and creating pathways for greater representation in this field. Washington, DC, here we come! 🙌
 
-Washington, DC, here we come! 🙌
-
 `Equity` `Inclusion` `Leadership` `Women in Cybersecurity` `Public Speaking`
 
 ---
 
-## 💚 ISC2 New Jersey Chapter — Volunteer
+## 💚 ISC2 New Jersey Chapter Volunteer
 
-[![ISC2 NJ Chapter](assets/isc2-nj-chapter-dinner.jpg)](https://isc2chapter-newjersey.org/)
+<img src="assets/isc2-nj-chapter-dinner.jpg" alt="ISC2 NJ Chapter" width="400"/> 
 
-I've been a volunteer with the **[ISC2 New Jersey Chapter](https://isc2chapter-newjersey.org/)** for nearly two years — and joining this community was one of the best professional decisions I've ever made. When I first joined, the chapter was ~400 members strong. Today we've more than doubled in size, and it's not hard to see why.
+I've been a volunteer with the **[ISC2 New Jersey Chapter](https://isc2chapter-newjersey.org/)** for nearly two years, and joining this community was one of the best professional decisions I've ever made. When I first joined, the chapter was ~400 members strong. Today we've more than doubled in size, and it's not hard to see why.
 
-Cybersecurity isn't just a job. It's a way of life. We think differently — through a lens of risk, resilience, and responsibility. What makes this chapter special is the authentic relationships built on trust and a shared commitment to the profession and to lifting each other up.
+Cybersecurity isn't just a job. It's a way of life. We think differently, through a lens of risk, resilience, and responsibility. What makes this chapter special is the authentic relationships built on trust and a shared commitment to the profession and to lifting each other up.
 
 ### 🤖 Founder, AI Security Working Group
 
-[![AI Security Working Group](assets/isc2-nj-ai-sig.png)](https://isc2chapter-newjersey.org/)
+<img src="assets/isc2-nj-ai-sig.png" alt="AI Security Working Group" width="400"/>
 
-I founded the **AI Security Working Group** for the ISC2 NJ Chapter — focused on advancing AI security excellence through collaboration, education, and innovation across the cybersecurity community.
+I founded the **AI Security Working Group** for the ISC2 NJ Chapter, focused on advancing AI security excellence through collaboration, education, and innovation across the cybersecurity community.
 
 I also participate in the **Mentoring Committee**, helping connect and support the next generation of cybersecurity professionals in New Jersey.
 
@@ -68,9 +66,9 @@ A local-first web app built for the ISC2 New Jersey Chapter's Cyber Pathways Men
 
 [![Chef Mer](https://github.com/user-attachments/assets/a1c3b225-acf5-4aa2-8eec-ba4870e0d295)](https://thecyberleader.github.io/recipes/)
 
-A personal recipe webapp with adjustable servings, a shopping list builder, and nutrition info — built in memory of my Teta (grandmother), who passed away recently and believed deeply that recipes are meant to be shared.
+A personal recipe webapp with adjustable servings, a shopping list builder, and nutrition info, built in memory of my Teta (grandmother), who passed away recently and believed deeply that recipes are meant to be shared.
 
-My love of cooking comes from her. She taught me that cooking is more than following instructions — it's about the simple, beautiful rhythms of daily life, thinking of others, and creating something with love. This is my way of honoring her and continuing what she taught me: that food connects us, that cooking is an act of care, and that the best meals are the ones we share.
+My love of cooking comes from her. She taught me that cooking is more than following instructions, it's about the simple, beautiful rhythms of daily life, thinking of others, and creating something with love. This is my way of honoring her and continuing what she taught me: that food connects us, that cooking is an act of care, and that the best meals are the ones we share.
 
 *Sahtain! (صحتين) — "Two healths" in Arabic, wishing you double the health and enjoyment.*
 
