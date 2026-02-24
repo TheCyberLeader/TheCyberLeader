@@ -102,7 +102,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 [![OWASP](https://img.shields.io/badge/OWASP-Project_Nest-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://nest.owasp.org)
 [![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
 
-[OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community — a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
+[OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community, a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
 
 `Open Source` `Security` `Mentorship` `OWASP` `GSoC`
 
@@ -110,7 +110,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 
 ### SOC 2 Quality Guild — Community Member
 
-[s2guild.org](https://s2guild.org) is a practitioner-driven community building standardized evaluation criteria for SOC 2 report reliability — helping GRC and TPRM teams make more consistent, defensible vendor trust decisions. I contribute as a community member bringing a governance and compliance practitioner perspective.
+[s2guild.org](https://s2guild.org) is a practitioner-driven community building standardized evaluation criteria for SOC 2 report reliability, helping GRC and TPRM teams make more consistent, defensible vendor trust decisions. I contribute as a community member bringing a governance and compliance practitioner perspective.
 
 `GRC` `TPRM` `SOC2` `Compliance` `Open Source`
 
