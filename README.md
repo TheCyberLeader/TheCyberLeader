@@ -101,6 +101,20 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 
 ---
 
+## 🎓 Marie's Mentor Mondays
+
+<p align="center">
+  <img src="assets/maries-mentor-mondays.png" alt="Marie's Mentor Mondays" width="400"/>
+</p>
+
+Every Monday I share career insights, answer student questions, and offer practical advice for navigating tech and cybersecurity careers — because access to honest career guidance shouldn't depend on who you know.
+
+**[📅 Book 30 minutes with me](https://lnkd.in/ejFzCjdQ)**
+
+`Mentorship` `Career Development` `Students` `Tech Careers`
+
+---
+
 ## 🌍 Open Source & Community
 
 ### OWASP Project Nest — GSoC Mentor
