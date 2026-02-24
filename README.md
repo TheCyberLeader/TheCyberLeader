@@ -16,9 +16,17 @@ I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and
 
 ### 🎤 Speaking at WiCyS 2026 — Washington, DC
 
+<img src="assets/wicys-2026-conference.jpg" alt="WiCyS 2026 Conference" width="400"/>
+
 My first WiCyS conference is going to be an unforgettable one. On March 12th, I'll be presenting alongside my amazing EAC colleagues on **breaking the invisible barriers that keep underrepresented professionals from reaching leadership in cybersecurity**. This topic is personal to me, and I can't wait to be in a room full of people who get it.
 
 Washington, DC, here we come! 🙌
+
+### 🎓 WiCyS 2026 Scholarship Recipient
+
+<img src="assets/wicys-2026-scholarship.jpg" alt="WiCyS 2026 Scholarship" width="300"/>
+
+I'm thrilled and deeply grateful to have been awarded a scholarship to attend the WiCyS 2026 Conference. I'll be attending with my fellow Equity Advisory Committee members — looking forward to learning from industry leaders, connecting with fellow professionals, and being part of such an important community. Thank you to WiCyS and the scholarship sponsors for investing in women in cybersecurity and creating pathways for greater representation in this critical field.
 
 `Equity` `Inclusion` `Leadership` `Women in Cybersecurity` `Public Speaking`
 
@@ -97,9 +105,8 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 
 ### OWASP Project Nest — GSoC Mentor
 
-[![OWASP](https://owasp.org/assets/images/logo.png)](https://nest.owasp.org)
-
-[![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=plastic&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
+[![OWASP](https://img.shields.io/badge/OWASP-Project_Nest-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://nest.owasp.org)
+[![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
 
 [OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community — a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
 
