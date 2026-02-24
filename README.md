@@ -107,9 +107,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
   <img src="assets/maries-mentor-mondays.png" alt="Marie's Mentor Mondays" width="400"/>
 </p>
 
-Every Monday I share career insights, answer student questions, and offer practical advice for navigating tech and cybersecurity careers — because access to honest career guidance shouldn't depend on who you know.
-
-**[📅 Book 30 minutes with me](https://lnkd.in/ejFzCjdQ)**
+Every Monday I share on Linkedin career insights, answer student questions, and offer practical advice for navigating tech and cybersecurity careers, because access to honest career guidance shouldn't depend on who you know.
 
 `Mentorship` `Career Development` `Students` `Tech Careers`
 
