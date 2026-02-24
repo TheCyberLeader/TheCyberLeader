@@ -109,6 +109,8 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 
 Every Monday on LinkedIn I share career insights, answer questions from students and professionals, and offer practical advice for navigating tech and cybersecurity careers; because honest guidance shouldn't depend on who you know.
 
+**[Follow Marie's Mentor Mondays on LinkedIn](https://www.linkedin.com/company/marie-s-mentor-mondays/)**
+
 `Mentorship` `Career Development` `Students` `Tech Careers`
 
 ---
