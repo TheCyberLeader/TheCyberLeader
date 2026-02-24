@@ -1,4 +1,4 @@
-<img width="1061" height="118" alt="Banner" src="https://github.com/user-attachments/assets/f342c31d-6c7d-4ae0-9e9c-7772f4cc237a" />
+[![Banner](https://github.com/user-attachments/assets/f342c31d-6c7d-4ae0-9e9c-7772f4cc237a)](https://github.com/TheCyberLeader)
 
 # 💫 About Me
 
@@ -10,26 +10,55 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-### [Hands-on Cyber Leadership](https://github.com/TheCyberLeader/hands-on-cyber-leadership)
-A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.
+### 🛡️ ISC2 NJ Cybersecurity Mentoring Toolkit
+A local-first web app built for the ISC2 New Jersey Chapter's Cyber Pathways Mentoring Program. Designed as a cybersecurity-specialized alternative to generic platforms — with cyber-specific career tracks, curated certifications, SMART goal worksheets, session logs, and email templates. Runs entirely in the browser with no accounts, no tracking, and no server.
 
-* **Security Audits & Compliance**: NIST-based security audits, risk assessments, and compliance mapping
-* **Incident Response**: Multi-scenario threat analysis including DNS failures, DoS attacks, brute force attempts, ransomware, and phishing incidents
-* **Technical Security Operations**: Linux/SQL security operations, file permissions management, database query filtering, and security investigations
-* **Risk & Vulnerability Management**: Threat modeling using PASTA Framework, NIST SP 800-30 risk quantification, and access control design
-* **Security Automation**: Python-based automation for security tasks including log parsing, pattern matching, and security algorithm development
-* **SOC Analyst Workflows**: Alert triage, log analysis, and threat intelligence integration using NIST IR Lifecycle
+**[→ Open the App](https://thecyberleader.github.io/isc2nj-mentoring-toolkit/)** · [GitHub](https://github.com/TheCyberLeader/isc2nj-mentoring-toolkit)
+
+`React` `Vite` `Tailwind CSS` `localStorage` `GitHub Pages`
 
 ---
-## 📊 Portfolio Analytics Dashboard
 
-### Project Metrics
-![Projects](https://img.shields.io/badge/Projects_Completed-6-success)
-![Scripts](https://img.shields.io/badge/Python_Scripts-15+-blue)
-![Frameworks](https://img.shields.io/badge/Frameworks_Applied-5-orange)
-![Documentation](https://img.shields.io/badge/Documentation_Pages-30+-informational)
+### 🍳 Marie's Recipe Collection
+A personal recipe webapp with adjustable servings, a shopping list builder, and nutrition info — built in memory of my Teta, who believed recipes are meant to be shared.
+
+**[→ Open the App](https://thecyberleader.github.io/recipes/)** · [GitHub](https://github.com/TheCyberLeader/recipes)
+
+`JavaScript` `GitHub Pages` `Node.js`
+
+---
+
+### 📚 Hands-On Cyber Leadership
+A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.
+
+- Security Audits & Compliance: NIST-based security audits, risk assessments, and compliance mapping
+- Incident Response: Multi-scenario threat analysis including DNS failures, DoS attacks, brute force attempts, ransomware, and phishing incidents
+- Technical Security Operations: Linux/SQL security operations, file permissions management, and security investigations
+- Risk & Vulnerability Management: Threat modeling using PASTA Framework, NIST SP 800-30 risk quantification, and access control design
+- Security Automation: Python-based automation for log parsing, pattern matching, and security algorithm development
+- SOC Analyst Workflows: Alert triage, log analysis, and threat intelligence integration using NIST IR Lifecycle
+
+[GitHub](https://github.com/TheCyberLeader/hands-on-cyber-leadership)
+
+---
+
+## 🌍 Open Source & Community
+
+### OWASP Project Nest — GSoC Mentor
+[OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community — a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
+
+`Open Source` `Security` `Mentorship` `OWASP` `GSoC`
+
+---
+
+### SOC 2 Quality Guild — Community Member
+[s2guild.org](https://s2guild.org) is a practitioner-driven community building standardized evaluation criteria for SOC 2 report reliability — helping GRC and TPRM teams make more consistent, defensible vendor trust decisions. I contribute as a community member bringing a governance and compliance practitioner perspective.
+
+`GRC` `TPRM` `SOC2` `Compliance` `Open Source`
+
+---
 
 ## 💻 Tech Stack
 
@@ -47,6 +76,8 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
@@ -58,29 +89,33 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ### Development & Collaboration
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white)
 
 ### Design & Documentation
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
 
 ---
+
 # 🍳 Beyond Cybersecurity
+
 A personal collection of tried and true favorite recipes and culinary experiments, because leadership and security aren't the only things worth cultivating.
 
-# Why This Repo Exists
-My love of cooking comes from my Teta (grandmother), who passed away a few months ago. She was an excellent cook and believed deeply that recipes are meant to be shared. Some of my earliest and most treasured memories are of us cooking together in her kitchen. 
+## Why This Repo Exists
+
+My love of cooking comes from my Teta (grandmother), who passed away a few months ago. She was an excellent cook and believed deeply that recipes are meant to be shared. Some of my earliest and most treasured memories are of us cooking together in her kitchen.
 
 She taught me that cooking is more than following instructions; it's about the simple, beautiful rhythms of daily life, thinking of others, and creating something with love. This repo is my way of honoring her and continuing what she taught me: that food connects us, that cooking is an act of care, and that the best meals are the ones we share.
 
-Sahtain! (صحتين) - "Two healths" in Arabic. It's what we say when someone is eating or has just finished a meal, wishing them double the health and enjoyment.
+*Sahtain! (صحتين) — "Two healths" in Arabic. It's what we say when someone is eating or has just finished a meal, wishing them double the health and enjoyment.*
 
-### [My Recipe Collection](https://github.com/TheCyberLeader/recipes)
+### [My Recipe Collection](https://thecyberleader.github.io/recipes/)
 
-<img width="3000" height="1127" alt="Chef Mer" src="https://github.com/user-attachments/assets/a1c3b225-acf5-4aa2-8eec-ba4870e0d295" />
+[![Chef Mer](https://github.com/user-attachments/assets/a1c3b225-acf5-4aa2-8eec-ba4870e0d295)](https://thecyberleader.github.io/recipes/)
 
 ---
+
 ## 🌐 Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m@riegrc.com)
-
----
