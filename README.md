@@ -16,7 +16,9 @@ I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and
 
 ### 🎤 Speaking at WiCyS 2026 Washington, DC
 
+<p align="center">
 <img src="assets/wicys-2026-conference.jpg" alt="WiCyS 2026 Conference" width="400"/>
+</p>
 
 My first WiCyS conference is going to be an unforgettable one, and I'm still pinching myself. I was awarded a scholarship to attend WiCyS 2026, and on March 12th I'll be on stage presenting alongside my amazing EAC colleagues on breaking the invisible barriers that keep underrepresented professionals from reaching leadership in cybersecurity.
 This topic is personal to me. I can't wait to be in a room full of people who get it, learning from industry leaders, connecting with fellow professionals, and being part of a community that's actively doing the work.
@@ -28,7 +30,9 @@ Thank you to WiCyS and the scholarship sponsors for investing in women in cybers
 
 ## 💚 ISC2 New Jersey Chapter Volunteer
 
+<p align="center">
 <img src="assets/isc2-nj-chapter-dinner.jpg" alt="ISC2 NJ Chapter" width="400"/> 
+</p>
 
 I've been a volunteer with the **[ISC2 New Jersey Chapter](https://isc2chapter-newjersey.org/)** for nearly two years, and joining this community was one of the best professional decisions I've ever made. When I first joined, the chapter was ~400 members strong. Today we've more than doubled in size, and it's not hard to see why.
 
@@ -36,7 +40,9 @@ Cybersecurity isn't just a job. It's a way of life. We think differently, throug
 
 ### 🤖 Founder, AI Security Working Group
 
+<p align="center">
 <img src="assets/isc2-nj-ai-sig.png" alt="AI Security Working Group" width="400"/>
+</p>
 
 I founded the **AI Security Working Group** for the ISC2 NJ Chapter, focused on advancing AI security excellence through collaboration, education, and innovation across the cybersecurity community.
 
