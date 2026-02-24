@@ -12,7 +12,7 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ## 💜 WiCyS Women in Cybersecurity
 
-I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** — providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
+I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
 
 ### 🎤 Speaking at WiCyS 2026 Washington, DC
 
@@ -48,7 +48,7 @@ I founded the **AI Security Working Group** for the ISC2 NJ Chapter, focused on 
 
 I also participate in the **Mentoring Committee**, helping connect and support the next generation of cybersecurity professionals in New Jersey.
 
-> *"If you are free then you need to free somebody else. If you have some power, then your job is to empower somebody else."* — Toni Morrison
+> *"If you are free then you need to free somebody else. If you have some power, then your job is to empower somebody else."* - Toni Morrison
 
 `ISC2` `Community` `AI Security` `Mentorship` `Volunteering`
 
@@ -60,7 +60,7 @@ I also participate in the **Mentoring Committee**, helping connect and support t
 
 [![Mentoring Toolkit](https://github.com/user-attachments/assets/0142d5a5-519d-4c85-9685-97eb1ef7e62a)](https://thecyberleader.github.io/isc2nj-mentoring-toolkit/)
 
-A local-first web app built for the ISC2 New Jersey Chapter's Cyber Pathways Mentoring Program. Designed as a cybersecurity-specialized alternative to generic platforms — with cyber-specific career tracks, curated certifications, SMART goal worksheets, session logs, and email templates. Runs entirely in the browser with no accounts, no tracking, and no server.
+A local-first web app built for the ISC2 New Jersey Chapter's Cyber Pathways Mentoring Program. Designed as a cybersecurity-specialized alternative to generic platforms, with cyber-specific career tracks, curated certifications, SMART goal worksheets, session logs, and email templates. Runs entirely in the browser with no accounts, no tracking, and no server.
 
 **[→ Open the App](https://thecyberleader.github.io/isc2nj-mentoring-toolkit/)** · [GitHub](https://github.com/TheCyberLeader/isc2nj-mentoring-toolkit)
 
@@ -88,7 +88,7 @@ My love of cooking comes from her. She taught me that cooking is more than follo
 
 [![Hands-On Cyber Leadership](https://github.com/user-attachments/assets/1cc08d49-7889-45ba-b862-4a629989af5b)](https://github.com/TheCyberLeader/hands-on-cyber-leadership)
 
-A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.
+A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certificate Program, presented through the lens of a governance and risk-aware cybersecurity leader.
 
 - Security Audits & Compliance: NIST-based security audits, risk assessments, and compliance mapping
 - Incident Response: Multi-scenario threat analysis including DNS failures, DoS attacks, brute force attempts, ransomware, and phishing incidents
