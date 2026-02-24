@@ -38,13 +38,13 @@ I've been a volunteer with the **[ISC2 New Jersey Chapter](https://isc2chapter-n
 
 Cybersecurity isn't just a job. It's a way of life. We think differently, through a lens of risk, resilience, and responsibility. What makes this chapter special is the authentic relationships built on trust and a shared commitment to the profession and to lifting each other up.
 
-### 🤖 Founder, AI Security Working Group
+### 🤖 Chair, AI Security Working Group
 
 <p align="center">
 <img src="assets/isc2-nj-ai-sig.png" alt="AI Security Working Group" width="400"/>
 </p>
 
-I founded the **AI Security Working Group** for the ISC2 NJ Chapter, focused on advancing AI security excellence through collaboration, education, and innovation across the cybersecurity community.
+I established and chair the **AI Security Working Group** for the ISC2 NJ Chapter, focused on advancing AI security excellence through collaboration, education, and innovation across the cybersecurity community.
 
 I also participate in the **Mentoring Committee**, helping connect and support the next generation of cybersecurity professionals in New Jersey.
 
