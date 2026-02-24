@@ -13,6 +13,9 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 ## 🚀 Featured Projects
 
 ### 🛡️ ISC2 NJ Cybersecurity Mentoring Toolkit
+
+[![Mentoring Toolkit](https://github.com/user-attachments/assets/0142d5a5-519d-4c85-9685-97eb1ef7e62a)](https://thecyberleader.github.io/isc2nj-mentoring-toolkit/)
+
 A local-first web app built for the ISC2 New Jersey Chapter's Cyber Pathways Mentoring Program. Designed as a cybersecurity-specialized alternative to generic platforms — with cyber-specific career tracks, curated certifications, SMART goal worksheets, session logs, and email templates. Runs entirely in the browser with no accounts, no tracking, and no server.
 
 **[→ Open the App](https://thecyberleader.github.io/isc2nj-mentoring-toolkit/)** · [GitHub](https://github.com/TheCyberLeader/isc2nj-mentoring-toolkit)
@@ -22,7 +25,14 @@ A local-first web app built for the ISC2 New Jersey Chapter's Cyber Pathways Men
 ---
 
 ### 🍳 Marie's Recipe Collection
-A personal recipe webapp with adjustable servings, a shopping list builder, and nutrition info — built in memory of my Teta, who believed recipes are meant to be shared.
+
+[![Chef Mer](https://github.com/user-attachments/assets/a1c3b225-acf5-4aa2-8eec-ba4870e0d295)](https://thecyberleader.github.io/recipes/)
+
+A personal recipe webapp with adjustable servings, a shopping list builder, and nutrition info — built in memory of my Teta (grandmother), who passed away recently and believed deeply that recipes are meant to be shared.
+
+My love of cooking comes from her. She taught me that cooking is more than following instructions — it's about the simple, beautiful rhythms of daily life, thinking of others, and creating something with love. This is my way of honoring her and continuing what she taught me: that food connects us, that cooking is an act of care, and that the best meals are the ones we share.
+
+*Sahtain! (صحتين) — "Two healths" in Arabic, wishing you double the health and enjoyment.*
 
 **[→ Open the App](https://thecyberleader.github.io/recipes/)** · [GitHub](https://github.com/TheCyberLeader/recipes)
 
@@ -31,6 +41,9 @@ A personal recipe webapp with adjustable servings, a shopping list builder, and 
 ---
 
 ### 📚 Hands-On Cyber Leadership
+
+[![Hands-On Cyber Leadership](https://github.com/user-attachments/assets/1cc08d49-7889-45ba-b862-4a629989af5b)](https://github.com/TheCyberLeader/hands-on-cyber-leadership)
+
 A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certificate Program, presented through the lens of a governance- and risk-aware cybersecurity leader.
 
 - Security Audits & Compliance: NIST-based security audits, risk assessments, and compliance mapping
@@ -95,24 +108,6 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ### Design & Documentation
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-
----
-
-# 🍳 Beyond Cybersecurity
-
-A personal collection of tried and true favorite recipes and culinary experiments, because leadership and security aren't the only things worth cultivating.
-
-## Why This Repo Exists
-
-My love of cooking comes from my Teta (grandmother), who passed away a few months ago. She was an excellent cook and believed deeply that recipes are meant to be shared. Some of my earliest and most treasured memories are of us cooking together in her kitchen.
-
-She taught me that cooking is more than following instructions; it's about the simple, beautiful rhythms of daily life, thinking of others, and creating something with love. This repo is my way of honoring her and continuing what she taught me: that food connects us, that cooking is an act of care, and that the best meals are the ones we share.
-
-*Sahtain! (صحتين) — "Two healths" in Arabic. It's what we say when someone is eating or has just finished a meal, wishing them double the health and enjoyment.*
-
-### [My Recipe Collection](https://thecyberleader.github.io/recipes/)
-
-[![Chef Mer](https://github.com/user-attachments/assets/a1c3b225-acf5-4aa2-8eec-ba4870e0d295)](https://thecyberleader.github.io/recipes/)
 
 ---
 
