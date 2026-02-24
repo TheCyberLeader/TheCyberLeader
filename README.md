@@ -10,23 +10,19 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ---
 
-## 🌸 WiCyS — Women in Cybersecurity
+## 💜 WiCyS — Women in Cybersecurity
 
 I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** — providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
 
 ### 🎤 Speaking at WiCyS 2026 — Washington, DC
 
-<img src="assets/wicys-2026-conference.jpg" alt="WiCyS 2026 Conference" width="400"/>
+<img src="assets/wicys-2026-conference.jpg" alt="WiCyS 2026 Conference" width="600"/>
 
-My first WiCyS conference is going to be an unforgettable one. On March 12th, I'll be presenting alongside my amazing EAC colleagues on **breaking the invisible barriers that keep underrepresented professionals from reaching leadership in cybersecurity**. This topic is personal to me, and I can't wait to be in a room full of people who get it.
+My first WiCyS conference is going to be an unforgettable one, and I'm still pinching myself. I was awarded a scholarship to attend WiCyS 2026, and on March 12th I'll be on stage presenting alongside my amazing EAC colleagues on breaking the invisible barriers that keep underrepresented professionals from reaching leadership in cybersecurity.
+This topic is personal to me. I can't wait to be in a room full of people who get it, learning from industry leaders, connecting with fellow professionals, and being part of a community that's actively doing the work.
+Thank you to WiCyS and the scholarship sponsors for investing in women in cybersecurity and creating pathways for greater representation in this field. Washington, DC, here we come! 🙌
 
 Washington, DC, here we come! 🙌
-
-### 🎓 WiCyS 2026 Scholarship Recipient
-
-<img src="assets/wicys-2026-scholarship.jpg" alt="WiCyS 2026 Scholarship" width="300"/>
-
-I'm thrilled and deeply grateful to have been awarded a scholarship to attend the WiCyS 2026 Conference. I'll be attending with my fellow Equity Advisory Committee members — looking forward to learning from industry leaders, connecting with fellow professionals, and being part of such an important community. Thank you to WiCyS and the scholarship sponsors for investing in women in cybersecurity and creating pathways for greater representation in this critical field.
 
 `Equity` `Inclusion` `Leadership` `Women in Cybersecurity` `Public Speaking`
 
