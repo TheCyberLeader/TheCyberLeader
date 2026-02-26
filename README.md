@@ -4,9 +4,9 @@
 
 Born to immigrant parents and raised in Metro Detroit, Michigan, I learned resilience early through financial hardship and community change. Those formative experiences taught me imagination and determination, qualities that continue to guide my work today.
 
-With over 11 years as a cybersecurity and governance executive, I've built my career on a simple belief: security should accelerate business, not slow it down. My work focuses on translating complex regulations into frameworks that enable transformation, building teams that drive results, and ensuring organizations can innovate with confidence.
+With extensive experience as a cybersecurity and governance leader in pharma and life sciences, I've built my career on a simple belief: security should accelerate business, not slow it down. A builder, connector, and leader, my work focuses on translating complex regulations into frameworks that enable transformation, developing teams that drive results, and ensuring organizations can innovate with confidence.
 
-My advocacy for women in cybersecurity reflects a core commitment that leadership means creating pathways for others, powered by people and focused on lasting impact across industries.
+My advocacy for women in cybersecurity reflects a core commitment that leadership means creating pathways for others, powered by people and focused on lasting impact across industries
 
 ---
 
