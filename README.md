@@ -14,18 +14,6 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
 
-### 🎤 Speaking at WiCyS 2026 Washington, DC
-
-<p align="center">
-<img src="assets/wicys-2026-conference.jpg" alt="WiCyS 2026 Conference" width="400"/>
-</p>
-
-My first WiCyS conference is going to be an unforgettable one, and I'm still pinching myself. I was awarded a scholarship to attend WiCyS 2026, and on March 12th I'll be presenting alongside my amazing EAC colleagues on breaking the invisible barriers that keep underrepresented professionals from reaching leadership in cybersecurity.
-This topic is personal to me. I can't wait to be in a room full of people who get it, learning from industry leaders, connecting with fellow professionals, and being part of a community that's actively doing the work.
-Thank you to WiCyS and the scholarship sponsors for investing in women in cybersecurity and creating pathways for greater representation in this field. Washington, DC, here we come! 🙌
-
-`Equity` `Inclusion` `Leadership` `Women in Cybersecurity` `Public Speaking`
-
 ---
 
 ## 💚 ISC2 New Jersey Chapter Volunteer
@@ -107,7 +95,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
   <img src="assets/maries-mentor-mondays.png" alt="Marie's Mentor Mondays" width="400"/>
 </p>
 
-Every Monday on LinkedIn I share career insights, answer questions from students and professionals, and offer practical advice for navigating tech and cybersecurity careers; because honest guidance shouldn't depend on who you know.
+Monthly on LinkedIn I share career insights, answer questions from students and professionals, and offer practical advice for navigating tech and cybersecurity careers; because honest guidance shouldn't depend on who you know.
 
 **[Follow Marie's Mentor Mondays on LinkedIn](https://www.linkedin.com/company/marie-s-mentor-mondays/)**
 
