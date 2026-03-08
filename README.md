@@ -14,6 +14,25 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
 
+## 🌍 Open Source & Community
+
+### OWASP Project Nest GSoC Mentor
+
+[![OWASP](https://img.shields.io/badge/OWASP-Project_Nest-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://nest.owasp.org)
+[![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
+
+[OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community, a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
+
+`Open Source` `Security` `Mentorship` `OWASP` `GSoC`
+
+---
+
+### SOC 2 Quality Guild Community Member
+
+[s2guild.org](https://s2guild.org) is a practitioner-driven community building standardized evaluation criteria for SOC 2 report reliability, helping GRC and TPRM teams make more consistent, defensible vendor trust decisions. I contribute as a community member bringing a governance and compliance practitioner perspective.
+
+`GRC` `TPRM` `SOC2` `Compliance` `Open Source`
+
 ---
 
 ## 🚀 Featured Projects
@@ -63,27 +82,6 @@ Monthly on LinkedIn I share career insights, answer questions from students and 
 **[Follow Marie's Mentor Mondays on LinkedIn](https://www.linkedin.com/company/marie-s-mentor-mondays/)**
 
 `Mentorship` `Career Development` `Students` `Tech Careers`
-
----
-
-## 🌍 Open Source & Community
-
-### OWASP Project Nest GSoC Mentor
-
-[![OWASP](https://img.shields.io/badge/OWASP-Project_Nest-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://nest.owasp.org)
-[![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
-
-[OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community, a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
-
-`Open Source` `Security` `Mentorship` `OWASP` `GSoC`
-
----
-
-### SOC 2 Quality Guild Community Member
-
-[s2guild.org](https://s2guild.org) is a practitioner-driven community building standardized evaluation criteria for SOC 2 report reliability, helping GRC and TPRM teams make more consistent, defensible vendor trust decisions. I contribute as a community member bringing a governance and compliance practitioner perspective.
-
-`GRC` `TPRM` `SOC2` `Compliance` `Open Source`
 
 ---
 
