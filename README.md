@@ -16,32 +16,6 @@ I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and
 
 ---
 
-## 💚 ISC2 New Jersey Chapter Volunteer
-
-<p align="center">
-<img src="assets/isc2-nj-chapter-dinner.jpg" alt="ISC2 NJ Chapter" width="400"/> 
-</p>
-
-I've been a volunteer with the **[ISC2 New Jersey Chapter](https://isc2chapter-newjersey.org/)** for nearly two years, and joining this community was one of the best professional decisions I've ever made. When I first joined, the chapter was ~400 members strong. Today we've more than doubled in size, and it's not hard to see why.
-
-Cybersecurity isn't just a job. It's a way of life. We think differently, through a lens of risk, resilience, and responsibility. What makes this chapter special is the authentic relationships built on trust and a shared commitment to the profession and to lifting each other up.
-
-### 🤖 Chair, AI Security Working Group
-
-<p align="center">
-<img src="assets/isc2-nj-ai-sig.png" alt="AI Security Working Group" width="400"/>
-</p>
-
-I established and chair the **AI Security Working Group** for the ISC2 NJ Chapter, focused on advancing AI security excellence through collaboration, education, and innovation across the cybersecurity community.
-
-I also participate in the **Mentoring Committee**, helping connect and support the next generation of cybersecurity professionals in New Jersey.
-
-> *"If you are free then you need to free somebody else. If you have some power, then your job is to empower somebody else."* - Toni Morrison
-
-`ISC2` `Community` `AI Security` `Mentorship` `Volunteering`
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛡️ ISC2 NJ Cybersecurity Mentoring Toolkit
