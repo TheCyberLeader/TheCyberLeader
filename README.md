@@ -122,7 +122,3 @@ Monthly on LinkedIn I share career insights, answer questions from students and 
 ![Adobe Creative Suite](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
 
 ---
-
-## 🌐 Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m@riegrc.com)
