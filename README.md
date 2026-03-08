@@ -18,17 +18,6 @@ I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and
 
 ## 🚀 Featured Projects
 
-### 🛡️ ISC2 NJ Cybersecurity Mentoring Toolkit
-
-[![Mentoring Toolkit](https://github.com/user-attachments/assets/0142d5a5-519d-4c85-9685-97eb1ef7e62a)](https://thecyberleader.github.io/isc2nj-mentoring-toolkit/)
-
-A local-first web app built for the ISC2 New Jersey Chapter's Cyber Pathways Mentoring Program. Designed as a cybersecurity-specialized alternative to generic platforms, with cyber-specific career tracks, curated certifications, SMART goal worksheets, session logs, and email templates. Runs entirely in the browser with no accounts, no tracking, and no server.
-
-**[→ Open the App](https://thecyberleader.github.io/isc2nj-mentoring-toolkit/)** · [GitHub](https://github.com/TheCyberLeader/isc2nj-mentoring-toolkit)
-
-`React` `Vite` `Tailwind CSS` `localStorage` `GitHub Pages`
-
----
 
 ### 🍳 Marie's Recipe Collection
 
