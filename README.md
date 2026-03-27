@@ -23,6 +23,11 @@ I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and
 
 [OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community, a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
 
+This is my first year mentoring with OWASP GSoC. I've reviewed proposals across multiple projects and developed a framework for giving feedback that's honest, 
+specific, and leaves contributors with a clear path forward.
+
+↓ See my GSoC Mentorship Guide below
+
 `Open Source` `Security` `Mentorship` `OWASP` `GSoC`
 
 ---
