@@ -10,11 +10,27 @@ My advocacy for women in cybersecurity reflects a core commitment that leadershi
 
 ---
 
-## 💜 WiCyS Women in Cybersecurity
+## 🎓 Marie's Mentor Mondays
+
+<p align="center">
+  <img src="assets/maries-mentor-mondays.png" alt="Marie's Mentor Mondays" width="400"/>
+</p>
+
+Monthly on LinkedIn I share career insights, answer questions from students and professionals, and offer practical advice for navigating tech and cybersecurity careers; because honest guidance shouldn't depend on who you know.
+
+**[Follow Marie's Mentor Mondays on LinkedIn](https://www.linkedin.com/company/marie-s-mentor-mondays/)**
+
+`Mentorship` `Career Development` `Students` `Tech Careers`
+
+---
+
+## 🌍 Community & Advocacy
+
+### 💜 WiCyS Women in Cybersecurity
 
 I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and serve on the **Equity Advisory Committee (EAC)** providing strategic counsel to advance equity and inclusion within the cybersecurity community, developing organizational policies, reviewing programs through an equity lens, and delivering quarterly recommendations to the Board of Directors.
 
-## 🌍 Open Source & Community
+---
 
 ### OWASP Project Nest — GSoC Mentor
 
@@ -41,20 +57,35 @@ I've reviewed proposals across multiple projects and developed a framework for g
 
 ---
 
-### 🎓 NJIT Ying Wu College of Computing Capstone Judge
+### 🎓 NJIT Ying Wu College of Computing — Capstone Judge
 
 <p align="center">
   <img src="assets/NJIT-Highlanders-logo.png" alt="NJIT Highlanders" width="320"/>
 </p>
 
-Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
+Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) — my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
 
 Giving back to the institution that shaped my career, and paying it forward to the next generation of computing professionals.
 
 `NJIT` `Alumni` `Capstone Judge` `Cybersecurity` `Student Showcase`
 
+---
+
 ## 🚀 Featured Projects
 
+### 🛡️ Cybersecurity Mentoring Toolkit
+
+<img width="1000" alt="Cybersecurity Mentoring Toolkit" src="https://raw.githubusercontent.com/TheCyberLeader/cyber-mentoring/main/public/assets/readme-screenshot.png" />
+
+A local-first web app for structured cybersecurity mentoring programs — goal setting, session logging, milestone tracking, career resources, email templates, and PDF export. All data stays in your browser. No server, no accounts, no tracking.
+
+Built under Marie's Mentor Mondays to give mentors and mentees a real tool for structured, purposeful programs.
+
+**[→ Open the App](https://thecyberleader.github.io/cyber-mentoring/)** · [GitHub](https://github.com/TheCyberLeader/cyber-mentoring)
+
+`React` `Vite` `Tailwind CSS` `GitHub Pages`
+
+---
 
 ### 🍳 Marie's Recipe Collection
 
@@ -86,20 +117,6 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 - SOC Analyst Workflows: Alert triage, log analysis, and threat intelligence integration using NIST IR Lifecycle
 
 [GitHub](https://github.com/TheCyberLeader/hands-on-cyber-leadership)
-
----
-
-## 🎓 Marie's Mentor Mondays
-
-<p align="center">
-  <img src="assets/maries-mentor-mondays.png" alt="Marie's Mentor Mondays" width="400"/>
-</p>
-
-Monthly on LinkedIn I share career insights, answer questions from students and professionals, and offer practical advice for navigating tech and cybersecurity careers; because honest guidance shouldn't depend on who you know.
-
-**[Follow Marie's Mentor Mondays on LinkedIn](https://www.linkedin.com/company/marie-s-mentor-mondays/)**
-
-`Mentorship` `Career Development` `Students` `Tech Careers`
 
 ---
 
