@@ -37,17 +37,15 @@ I've reviewed proposals across multiple projects and developed a framework for g
 
 `GRC` `TPRM` `SOC2` `Compliance` `Open Source`
 
-<img width="1205" height="193" alt="gsoc" src="https://github.com/user-attachments/assets/ce33a25c-567c-467e-9ae9-4dc75d7e4d79" />
-
 ---
 
-### 🎓 NJIT Ying Wu College of Computing — Capstone Judge
+### 🎓 NJIT Ying Wu College of Computing Capstone Judge
 
 <p align="center">
   <img src="assets/NJIT-Highlanders-logo.png" alt="NJIT Highlanders" width="320"/>
 </p>
 
-Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) — my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
+Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
 
 Giving back to the institution that shaped my career, and paying it forward to the next generation of computing professionals.
 
