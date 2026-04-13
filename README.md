@@ -23,6 +23,8 @@ I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and
 
 [OWASP Nest](https://github.com/OWASP/Nest) is the central hub for the OWASP community, a platform for discovering projects, finding contribution opportunities, and powering Google Summer of Code. I serve as a **GSoC mentor**, guiding students contributing to one of the most widely used open source security community platforms in the world.
 
+<img width="1205" height="193" alt="gsoc" src="https://github.com/user-attachments/assets/ce33a25c-567c-467e-9ae9-4dc75d7e4d79" />
+
 This is my first year mentoring with OWASP GSoC. I've reviewed proposals across multiple projects and developed a framework for giving feedback that's honest, 
 specific, and leaves contributors with a clear path forward.
 
@@ -38,8 +40,6 @@ specific, and leaves contributors with a clear path forward.
 
 `GRC` `TPRM` `SOC2` `Compliance` `Open Source`
 
-<img width="1205" height="193" alt="gsoc" src="https://github.com/user-attachments/assets/ce33a25c-567c-467e-9ae9-4dc75d7e4d79" />
-
 ---
 
 ### 🎓 NJIT Ying Wu College of Computing Capstone Judge
@@ -53,6 +53,7 @@ Invited to serve as an industry judge for the **Ying Wu College of Computing Stu
 Giving back to the institution that shaped my career, and paying it forward to the next generation of computing professionals.
 
 `NJIT` `Alumni` `Capstone Judge` `Cybersecurity` `Student Showcase`
+
 
 ## 🎓 GSoC Mentorship Guide
 
