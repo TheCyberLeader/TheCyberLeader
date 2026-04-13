@@ -63,7 +63,7 @@ I've reviewed proposals across multiple projects and developed a framework for g
   <img src="assets/NJIT-Highlanders-logo.png" alt="NJIT Highlanders" width="320"/>
 </p>
 
-Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) — my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
+Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
 
 Giving back to the institution that shaped my career, and paying it forward to the next generation of computing professionals.
 
@@ -77,7 +77,7 @@ Giving back to the institution that shaped my career, and paying it forward to t
 
 <img width="1000" alt="Cybersecurity Mentoring Toolkit" src="https://raw.githubusercontent.com/TheCyberLeader/cyber-mentoring/main/public/assets/readme-screenshot.png" />
 
-A local-first web app for structured cybersecurity mentoring programs — goal setting, session logging, milestone tracking, career resources, email templates, and PDF export. All data stays in your browser. No server, no accounts, no tracking.
+A local-first web app for structured cybersecurity mentoring programs,  goal setting, session logging, milestone tracking, career resources, email templates, and PDF export. All data stays in your browser. No server, no accounts, no tracking.
 
 Built under Marie's Mentor Mondays to give mentors and mentees a real tool for structured, purposeful programs.
 
