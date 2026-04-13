@@ -32,7 +32,7 @@ I'm a member of **[Women in Cybersecurity (WiCyS)](https://www.wicys.org/)** and
 
 ---
 
-### OWASP Project Nest — GSoC Mentor
+### OWASP Project Nest - GSoC Mentor
 
 [![OWASP](https://img.shields.io/badge/OWASP-Project_Nest-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://nest.owasp.org)
 [![GSoC](https://img.shields.io/badge/Google_Summer_of_Code-Mentor-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white)](https://owasp.org/www-community/initiatives/gsoc/gsoc2026ideas#owasp-nest)
@@ -57,7 +57,7 @@ I've reviewed proposals across multiple projects and developed a framework for g
 
 ---
 
-### 🎓 NJIT Ying Wu College of Computing — Capstone Judge
+### 🎓 NJIT Ying Wu College of Computing - Capstone Judge
 
 <p align="center">
   <img src="assets/NJIT-Highlanders-logo.png" alt="NJIT Highlanders" width="320"/>
