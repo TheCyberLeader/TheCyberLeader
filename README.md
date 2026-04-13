@@ -27,6 +27,8 @@ I've reviewed proposals across multiple projects and developed a framework for g
 
 **[→ Read my GSoC Mentorship Guide](https://github.com/TheCyberLeader/owasp-gsoc-mentorship)**
 
+<img width="1205" height="193" alt="gsoc" src="https://github.com/user-attachments/assets/ce33a25c-567c-467e-9ae9-4dc75d7e4d79" />
+
 `Open Source` `Security` `Mentorship` `OWASP` `GSoC`
 
 ---
