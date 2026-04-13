@@ -161,7 +161,7 @@ A hands-on showcase developed as part of the WiCyS / Google Cybersecurity Certif
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheCyberLeader&show_icons=true&title_color=6B2D8B&icon_color=F47920&text_color=222222&bg_color=ffffff&border_color=6B2D8B" alt="Marie's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=TheCyberLeader&theme=default&ring=6B2D8B&fire=F47920&currStreakLabel=6B2D8B&dates=222222&sideLabels=6B2D8B&border=6B2D8B" alt="Marie's GitHub Streak Stats" />
 </p>
 
 <p align="center">
