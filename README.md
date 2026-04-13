@@ -42,13 +42,13 @@ specific, and leaves contributors with a clear path forward.
 
 ---
 
-### 🎓 NJIT Ying Wu College of Computing — Capstone Judge
+### 🎓 NJIT Ying Wu College of Computing Capstone Judge
 
 <p align="center">
   <img src="assets/NJIT-Highlanders-logo.png" alt="NJIT Highlanders" width="320"/>
 </p>
 
-Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) — my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
+Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
 
 Giving back to the institution that shaped my career, and paying it forward to the next generation of computing professionals.
 
