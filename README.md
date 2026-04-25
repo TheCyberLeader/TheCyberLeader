@@ -63,7 +63,7 @@ I've reviewed proposals across multiple projects and developed a framework for g
   <img src="assets/NJIT-Highlanders-logo.png" alt="NJIT Highlanders" width="320"/>
 </p>
 
-Appointed to serve on the Board of Visitors for the Ying Wu College of Computing at NJIT, contributing an industry perspective on curriculum, strategic direction, and student opportunity. Also invited to serve as an industry judge for the Student Capstone Showcase, evaluating final-year projects across cybersecurity, software engineering, and computing disciplines — bringing a lens on security design, risk, and real-world applicability.
+Appointed to serve on the Board of Visitors for the Ying Wu College of Computing at NJIT, contributing an industry perspective on curriculum, strategic direction, and student opportunity. Also invited to serve as an industry judge for the Student Capstone Showcase, evaluating final-year projects across cybersecurity, software engineering, and computing disciplines, bringing a lens on security design, risk, and real-world applicability.
 
 My connection to NJIT runs deeper than a diploma. As a student I was involved in research and program governance, and that early experience shaped my commitment to helping build what comes next, ensuring the college continues to produce the diverse, resilient technologists the industry needs most.
 Giving back to the institution that shaped my career, and paying it forward to the next generation of computing professionals.
