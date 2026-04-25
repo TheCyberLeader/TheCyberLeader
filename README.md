@@ -2,11 +2,11 @@
 
 # 💫 About Me
 
-Born to immigrant parents and raised in Metro Detroit, Michigan, I learned resilience early through financial hardship and community change. Those formative experiences taught me imagination and determination, qualities that continue to guide my work today.
+Born to immigrant parents and raised in Metro Detroit, I learned resilience early, a quality that continues to guide my work. As a cybersecurity and governance leader in pharma and life sciences, I've built my career on a simple belief: security should accelerate business, not slow it down.
 
-With extensive experience as a cybersecurity and governance leader in pharma and life sciences, I've built my career on a simple belief: security should accelerate business, not slow it down. A builder, connector, and leader, my work focuses on translating complex regulations into frameworks that enable transformation, developing teams that drive results, and ensuring organizations can innovate with confidence.
+As a first-generation student who navigated higher education and a career without a roadmap, I know what it means to not see a clear path forward.
 
-My advocacy for women in cybersecurity reflects a core commitment that leadership means creating pathways for others, powered by people and focused on lasting impact across industries
+That's why I'm committed to opening doors for the next generation. I believe leadership means creating pathways for others. The industry needs diverse thinkers and resilient people, and this next generation is exactly that. 🚀
 
 ---
 
@@ -57,17 +57,24 @@ I've reviewed proposals across multiple projects and developed a framework for g
 
 ---
 
-### 🎓 NJIT Ying Wu College of Computing - Capstone Judge
+### 🎓NJIT Ying Wu College of Computing - Board of Visitors
 
 <p align="center">
   <img src="assets/NJIT-Highlanders-logo.png" alt="NJIT Highlanders" width="320"/>
 </p>
 
+Appointed to serve on the Board of Visitors for the Ying Wu College of Computing at NJIT, contributing an industry perspective on curriculum, strategic direction, and student opportunity. My connection to NJIT runs deeper than a diploma, as a student I was involved in research and program governance, and that early experience shaped my commitment to helping build what comes next.
+
+Focused on ensuring the college continues to produce the diverse, resilient technologists the industry needs most.
+NJIT Alumni Board of Visitors Cybersecurity Higher Education Workforce Development
+
+### 🎓 NJIT Ying Wu College of Computing - Capstone Judge
+
 Invited to serve as an industry judge for the **Ying Wu College of Computing Student Capstone Showcase** at New Jersey Institute of Technology (NJIT) my alma mater. Evaluated final-year student projects across cybersecurity, software engineering, and computing disciplines, bringing an industry lens on security design, risk, and real-world applicability.
 
 Giving back to the institution that shaped my career, and paying it forward to the next generation of computing professionals.
 
-`NJIT` `Alumni` `Capstone Judge` `Cybersecurity` `Student Showcase`
+`NJIT` `Alumni` `Board of Visitors` `Capstone Judge` `Cybersecurity` `Software Engineering` `Student Showcase` `Higher Education` `Workforce Development`
 
 ---
 
